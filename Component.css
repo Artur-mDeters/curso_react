@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+}
+.h1 {
+    color: #ff00ff;
+    font-size: 20pt;
+}
+.p {
+    border-bottom: 1px solid;
+}
+
+.myButton {
+    width: 100px;
+    height: 50px;
+    background-color: #ff00ff;
+    border: none;
+    border-radius: 1rem;
+}
+.myButton:hover {
+    cursor: pointer;
+    background-color: #bd00bd;
+    transition: 0.2s;
+}
